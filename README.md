@@ -1,4 +1,4 @@
-## big-mart-sale-prediction
+# big-mart-sale-prediction
 Project Overview
 The Big Mart Sale Prediction project aims to predict sales for various products at Big Mart outlets across different locations. By analyzing historical sales data, the project helps retailers make informed business decisions about product stocking and marketing strategies. The project utilizes several powerful Python libraries for data analysis, visualization, and machine learning to predict sales based on product and outlet characteristics.
 Tech Stack
